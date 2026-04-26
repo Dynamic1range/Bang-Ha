@@ -1,0 +1,33 @@
+{
+  "id": "m1_c1_l0",
+  "title": "Урок 0: Рождение Хангыля",
+  "introduction": "Добро пожаловать в мир корейского языка. Хангыль — это...",
+  "blocks": [
+    {
+      "type": "vocabulary",
+      "title": "Новые слова из текста",
+      "words": [
+        { "korean": "아이", "pronunciation": "а-и", "russian": "Ребёнок" },
+        { "korean": "우유", "pronunciation": "у-ю", "russian": "Молоко" }
+      ]
+    },
+    {
+      "type": "theory",
+      "variant": "fact",
+      "content": "Хангыль состоит из букв для звуков. \n\nВ отличие от Ханча..."
+    },
+    {
+      "type": "dialogue",
+      "dialogueLines": [
+        { "speaker": "A", "korean": "안녕하세요", "pronunciation": "аннёнхасэё", "russian": "Здравствуйте" }
+      ]
+    },
+    {
+       "type": "quiz_multiple",
+       "question": "Чем Хангыль отличается от иероглифов?",
+       "options": ["Это буквы для звуков", "Это символы для смысла"],
+       "correctAnswer": "Это буквы для звуков",
+       "explanation": "Хангыль — фонетический алфавит."
+    }
+  ]
+}
