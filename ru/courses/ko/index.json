@@ -1,0 +1,32 @@
+{
+  "id": "korean_101",
+  "targetLanguage": "ko",
+  "uiLanguage": "ru",
+  "title": "Корейский язык",
+  "modules": [
+    {
+      "id": "module_1",
+      "title": "Модуль 1: Ознакомление",
+      "description": "Введение в алфавит и самые первые слова.",
+      "chapters": [
+        {
+          "id": "m1_c1",
+          "title": "Глава 1: Основы Хангыля",
+          "description": "Изучение алфавита и слогов",
+          "lessons": [
+            { 
+              "id": "m1_c1_l0", 
+              "title": "Урок 0", 
+              "subtitle": "Рождение Хангыля"
+            },
+            {
+              "id": "m1_c1_l1", 
+              "title": "Урок 1", 
+              "subtitle": "Первые гласные"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
